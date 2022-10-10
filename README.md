@@ -16,5 +16,8 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 - <a href="https://github.com/sbalaji02">S Balaji </a>
 - <a href="https://github.com/rabisheik">R Abisheik </a>
 
+## Languages Used:
+[![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,django,nodejs,python,mongodb&perline=10)](https://skillicons.dev)
+
 ## PROJECT ID
 Project ID : IBM-Project-25620-1659968640
