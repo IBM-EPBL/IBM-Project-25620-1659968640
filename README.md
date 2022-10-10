@@ -3,8 +3,8 @@
 ## Web Phishing Detection
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet. 
 
-<img src="https://www.pymnts.com/wp-content/uploads/2018/07/square-smb-phishing.jpg" width="370px" align="left" hspace="50">
-<img src="https://around.uoregon.edu/sites/around2.uoregon.edu/files/styles/landscape/public/field/image/phishing_laptop_shutterstock_ato.jpg?itok=0jqkG85U" width="440px" >
+<img src="https://www.pymnts.com/wp-content/uploads/2018/07/square-smb-phishing.jpg" width="270px" align="left" hspace="50">
+<img src="https://around.uoregon.edu/sites/around2.uoregon.edu/files/styles/landscape/public/field/image/phishing_laptop_shutterstock_ato.jpg?itok=0jqkG85U" width="220px" >
 
 ## Common threats of Web Phishing:
 - Web phishing aims to steal private information, such as usernames, passwords, and credit card details, by way of impersonating a legitimate entity.
