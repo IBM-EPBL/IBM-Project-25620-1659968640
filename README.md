@@ -19,5 +19,11 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 ## Languages Used:
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,django,nodejs,python,mongodb&perline=10)](https://skillicons.dev)
 
-## PROJECT ID
-Project ID : IBM-Project-25620-1659968640
+## CREDENTIALS:
+- Webpage link: https://phishing-shield.herokuapp.com/
+- Video Link: https://youtu.be/ZpIgf5M7Bmg
+- Project ID : IBM-Project-25620-1659968640
+- Team ID: PNT2022TMID11486
+<br>
+<br>
+<p align="center"><b>@COPYRIGHT <a> <a href="https://www.linkedin.com/in/balajeevg-techclog/"> BALAJEE A V</a> 2022
